@@ -64,7 +64,7 @@ class Circle implements Shape {
 }
 
 // Main class to test the shapes
-public class Program1 {
+public class program_b1 {
     public static void main(String[] args) {
         // Create instances of each shape with specific dimensions
         Rectangle rectangle = new Rectangle(5, 10); // Rectangle with length 5 and width 10
